@@ -14,7 +14,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 		<app.runtime>4.6.2</app.runtime>
-		<mule.maven.plugin.version>4.1.0</mule.maven.plugin.version>
+		<mule.maven.plugin.version>3.8.2</mule.maven.plugin.version>
 	</properties>
 
 	<build>
@@ -33,9 +33,9 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.4.0</muleVersion>
-						<username>Asish211</username>
+						<username>211Asish</username>
 						<password>Ashu@311211</password>
-						<applicationName>CICD111</applicationName>
+						<applicationName>CICD1111</applicationName>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
@@ -89,5 +89,4 @@
 			</snapshots>
 		</pluginRepository>
 	</pluginRepositories>
-
 </project>
